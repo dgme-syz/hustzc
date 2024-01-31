@@ -1,10 +1,8 @@
-# hustzc
 
-实验来自头歌：https://www.educoder.net/paths/hvbz6g9i
-课程来自mooc: https://www.icourse163.org/course/HUST-1205809816
+* 实验来自头歌：https://www.educoder.net/paths/hvbz6g9i
+* 课程来自mooc: https://www.icourse163.org/course/HUST-1205809816
 
-目前完成(以下列表呈现顺序是建议食用顺序)：
-
+😶‍🌫️目前完成(以下列表呈现顺序是建议食用顺序)：
 > 计算机组成实验(MIPS32系统)
 * 运算器实验：       
     * 8位可控加减法电路设计
