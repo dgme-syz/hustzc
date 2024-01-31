@@ -1,6 +1,7 @@
 # hustzc
 
 实验来自头歌：https://www.educoder.net/paths/hvbz6g9i
+课程来自mooc: https://www.icourse163.org/course/HUST-1205809816
 
 目前完成(以下列表呈现顺序是建议食用顺序)：
 
